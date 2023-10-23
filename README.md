@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alfrin Poulose</h1>
-# 💫 About Me:
+
 A passionate Full Stack developer and my tech toolkit consists of React and Tailwind for the frontend, while Python-Django powers the backend. <br>Git and GitHub keep my version control in check. <br><br>API integration is my jam. <br>Take, for instance, my Netflix clone project - it's all about using the TMDB API to snag images and data for different sections. <br>And hey, I'm officially a Postman Student Expert, which means my API game is strong. <br><br>When I'm in React mode, I turn to Axios for smooth frontend-backend chatter. <br>It's all about making sure things work, no fuss.
 
 
