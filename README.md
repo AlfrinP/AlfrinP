@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **alfrinpoulose@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AEz0DDbYDZNH4sr37gOw6oJ9wLroTdyY/view?usp=drivesdk](https://drive.google.com/file/d/1AEz0DDbYDZNH4sr37gOw6oJ9wLroTdyY/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AEz0DDbYDZNH4sr37gOw6oJ9wLroTdyY/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
